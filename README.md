@@ -1,5 +1,7 @@
 # デジクリ2016年夏合宿講義資料
 
+[![Build Status](https://travis-ci.org/sh4869/LectureMaterials.svg?branch=travis-ci-setup)](https://travis-ci.org/sh4869/LectureMaterials)
+
 デジクリ2016年度夏合宿で使われる講義資料です．
 
 ## 内容
