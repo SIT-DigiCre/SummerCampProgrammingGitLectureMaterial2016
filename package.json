@@ -4,7 +4,7 @@
   "description": "Lecture Materials for Digicre",
   "main": "index.js",
   "scripts": {
-    "test": "textlint -f pretty-errors docs/"
+    "textlint": "textlint -f pretty-error docs/"
   },
   "repository": {
     "type": "git",
