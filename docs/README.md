@@ -83,3 +83,7 @@ sudo apt-get install git
 ### GitHub アカウント
 
 講習の中でGitHubというサービスを利用します。そのアカウントを作成しておいてください。[こちら](http://qiita.com/kooohei/items/361da3c9dbb6e0c7946b)を参考にしてください。
+
+### エディタのインストール（notepad++）
+
+[Notepad++ v6.9.2 - Current Version](https://notepad-plus-plus.org/download/v6.9.2.html)にアクセスして、Notepad++ Installerをクリックしてダウンロードしてください。ダウンロードしてきたインストーラーを実行してダウンロードしてください。
