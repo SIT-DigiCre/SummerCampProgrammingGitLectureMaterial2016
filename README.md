@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/SIT-DigiCre/SummerCampProgrammingGitLectureMaterial2016.svg?branch=master)](https://travis-ci.org/SIT-DigiCre/SummerCampProgrammingGitLectureMaterial2016)
 
-デジクリ2016年度夏合宿で使われる講義資料です。
+デジクリ2016年度夏合宿で使われた講義資料です。
 
 ## 内容
 
